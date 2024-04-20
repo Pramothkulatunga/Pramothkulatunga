@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me Contac via Email - Pramothkulatung@gmail.com
+- 📫 How to reach me Contact via Email - Pramothkulatung@gmail.com
 
 <!---
 Pramothkulatunga/Pramothkulatunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
